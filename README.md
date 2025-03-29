@@ -24,6 +24,13 @@
                     <p>An implementation of sexism detection using deep learning models (Bi-LSTM and Transformer) trained on social media text data.</p>
                 </td>
             </tr>
+            <tr>
+                <td align="center">2</td>
+                <td align="left"><a href="forges/002-NLP-Sexism%20Detection%20with%20Prompting%20to%20LLMs/LLM%20Prompting.ipynb">Sexism Detection with LLMs and Prompt Engineering</a></td>
+                <td align="left">
+                    <p>An exploration of using large language models (LLMs) with zero-shot and few-shot prompting to detect sexist content, demonstrating the effectiveness of prompt engineering in content moderation tasks.</p>
+                </td>
+            </tr>
         </tbody>
     </table>
 </div>
