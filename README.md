@@ -31,6 +31,13 @@
                     <p>An exploration of using large language models (LLMs) with zero-shot and few-shot prompting to detect sexist content, demonstrating the effectiveness of prompt engineering in content moderation tasks.</p>
                 </td>
             </tr>
+            <tr>
+                <td align="center">3</td>
+                <td align="left"><a href="forges/003-DL-Blind%20Source%20Separation/Blind%20Source%20Separation.ipynb">Blind Source Separation</a></td>
+                <td align="left">
+                    <p>A deep learning model that separates mixed MNIST and Fashion-MNIST images using a U-Net architecture. The model reconstructs original source images from pixel-wise summed inputs without preprocessing, demonstrating effective blind source separation.</p>
+                </td>
+            </tr>
         </tbody>
     </table>
 </div>
