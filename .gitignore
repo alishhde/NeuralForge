@@ -4,8 +4,11 @@ __pycache__/
 
 # Virtual Environment
 .venv
+.env
 env/
 venv/
+*.toml
+*.lock
 
 # IDE
 .idea/
@@ -22,9 +25,13 @@ venv/
 logs/
 log/
 
-# Environment files
-.env
+# Folders and Files
+Archive/
 
 # Security
 security/
-.secrets.baseline 
+.secrets.baseline
+
+# Data
+Data/
+utils/
